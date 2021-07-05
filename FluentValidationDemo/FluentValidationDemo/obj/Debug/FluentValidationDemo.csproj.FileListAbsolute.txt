@@ -1,0 +1,12 @@
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\bin\Debug\FluentValidationDemo.exe.config
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\bin\Debug\FluentValidationDemo.exe
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\bin\Debug\FluentValidationDemo.pdb
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.Properties.Resources.resources
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.csproj.GenerateResource.cache
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.csproj.CoreCompileInputs.cache
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.exe
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.pdb
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\bin\Debug\FluentValidation.dll
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\bin\Debug\FluentValidation.xml
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.csproj.CopyComplete
+D:\WS\WS C#\FluentValidationDemo\FluentValidationDemo\FluentValidationDemo\obj\Debug\FluentValidationDemo.forms.EmployeeForm.resources
